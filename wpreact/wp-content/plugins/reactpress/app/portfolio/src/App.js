@@ -1,29 +1,24 @@
-import './App.css';
-import './Loading';
-import Loading from './Loading';
-import Experence from './experience';
-import Approch from './approach'
-import Footer from './Footer';
+import React from "react";
+import "./App.css";
+import Loading from "./Loading";
+import NavigationMenu from "./Navigation";
+import FullStack from "./Fullstack";
+import About from "./About";
+//import Works from "./Works";
+import Projects from "./Projects";
+import Experence from "./experience";
+import Approch from "./approach";
+import Footer from "./Footer";
 
 function App() {
   return (
     <div className="App">
-    <Loading status="activeLoader"/>
-      <header className="App-header">
-        {/* <img src={logo} className="App-logo" alt="logo" /> */}
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <Loading status="activeLoader" />
+      <NavigationMenu />
+      <FullStack />
+      <About />
       <Experence />
+      <Projects />
       <Approch />
       <Footer />
     </div>
