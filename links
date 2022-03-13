@@ -1,0 +1,103 @@
+
+Link
+
+scroll-direction:
+https://locomotive.ca/en/projects
+https://locomotivemtl.github.io/locomotive-scroll/
+https://learntocodewith.me/posts/portfolio-tips/
+
+https://css-tricks.com/how-to-use-the-locomotive-scroll-for-all-kinds-of-scrolling-effects/
+Eg:
+https://brittanychiang.com/
+https://www.seyi.dev/
+https://mattfarley.ca/
+https://robbowen.digital/
+https://www.seyi.dev/
+https://mxb.dev/notes/
+https://rockiger.com/en/
+https://mxb.dev/
+https://www.freecodecamp.org/news/15-web-developer-portfolios-to-inspire-you-137fb1743cae/
+https://jacekjeznach.com/wall/
+
+Ref:
+https://css-tricks.com/how-to-use-the-locomotive-scroll-for-all-kinds-of-scrolling-effects/
+
+https://betterprogramming.pub/14-best-web-developer-portfolios-to-get-inspiration-8fbce0f75320
+https://www.sliderrevolution.com/design/web-developer-portfolio-examples/
+https://hashnode.com/post/30-web-developer-portfolios-to-inspire-you-cknfx6wdg069kxws1bjjv8mhw
+
+
+React:
+https://medium.com/free-code-camp/wordpress-react-how-to-create-a-modern-web-app-using-wordpress-ef6cc6be0cd0#b8b4
+
+
+Interview Questions
+https://jacekjeznach.com/react-in-questions-and-answers-2021-2/
+
+
+echo "# portfolio" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/gobirajkumar8/portfolio.git
+git push -u origin main
+
+Git token
+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
+
+
+CREATE USER 'portfolioAws'@'localhost' IDENTIFIED BY 'iP@wdAws08';
+ALTER USER 'portfolioAws'@'localhost' IDENTIFIED WITH mysql_native_password BY 'iP@wdAws08';
+
+ssh -i kaykar_VPC.pem ubuntu@3.7.70.87
+
+
+
+
+Portfolio
+bootstap
+accorident
+===================================
+ssh -i id_rsa.pub datamyi7@162.241.123.50
+Grrajkumar.dev
+http://162.241.123.50/cpanel
+z+W5!{aE8pz!
+[1:16 PM, 2/24/2022] Anbarasan A: RajkumarRSA12@
+[1:18 PM, 2/24/2022] Anbarasan A: USERNAME
+datamyi7
+[1:18 PM, 2/24/2022] Anbarasan A: Cpanel
+[1:19 PM, 2/24/2022] Anbarasan A: USERNAME
+datamyi7
+PASSWORD
+z+W5!{aE8pz!
+
+Sj4qSHG3X$mr+cGGjW7TkE3M
+datamyi7_reactpress
+datamyi7_demorajacc
+DemoRajDM20@
+Webdisk
+Username : grrajkumar
+Pass : rajkumardisk12@
+public_html/grrajkumar
+
+
+
+
+
+
+
+------------=====================================
+Theme setup 
+required 10 plugins, one Plugin is not avaiable older version is not supporting.
+Elements plugin shows errors.
+Leanpress plugin installed and sample course is added and testing
+
+SSLCACertificatePath /etc/ssl/certs/
+                SSLCACertificateFile /etc/apache2/ssl.crt/grrajkumar_dev.ca-bundle
+
+AH00526: Syntax error on line 52 of /etc/apache2/sites-enabled/default-ssl.conf:
+Mar 10 05:50:03 ip-10-0-153-62 apachectl[76828]: SSLCACertificateFile: file '/etc/apache2/ssl.crt/grrajkumar_dev.ca-bundle' does not exist or i>
+Mar 10 05:50:03 ip-10-0-153-62 apachectl[76825]: Action 'graceful' failed.
+Mar 10 05:50:03 ip-10-0-153-62 apachectl[76825]: The Apache error log may have more information.
+Mar 10 05:50:03 ip-10-0-153-62 systemd[1]: apache2.service: Control process exited, code=exited, status=1/FAILURE
